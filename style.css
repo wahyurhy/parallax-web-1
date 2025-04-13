@@ -115,3 +115,8 @@ section {
   object-fit: cover;
   pointer-events: none;
 }
+
+.about img.about-waterfall {
+  position: absolute;
+  top: -95px;
+}
